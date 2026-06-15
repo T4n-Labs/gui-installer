@@ -1,2 +1,0 @@
-xxd -i logo.png > include/logo.h
-
